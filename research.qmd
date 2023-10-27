@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 ### University of Minnesota, *Minneapolis, MN*
-### Lab Member: LASER
+### Lab Member: [LASER](https://github.com/LabAdvStatEdResearch)
 #### Lab Advancing Statistics Education Research 
   - Engage in collaborative research efforts with statistics education researchers at the University of Minnesota
 

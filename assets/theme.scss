@@ -31,10 +31,10 @@ $link-hover-color: #99B030;
 /*-- scss:rules --*/
 
 /* unvisited link */
-/*a:link {
-  color: var(--avo);
-  text-decoration: none;
-}*/
+a:link {
+  color: var(--dark);
+  text-decoration: underline;
+}
 
 /* visited link */
 /*a:visited {
