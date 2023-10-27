@@ -3,7 +3,7 @@ title: "Regina Lisinker"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
-  template: broadside
+  template: solana
   image: img/headshot.jpeg
   links:
     # Available icons: https://icons.getbootstrap.com/
