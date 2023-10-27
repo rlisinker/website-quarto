@@ -25,21 +25,22 @@ $navbar-hl: #99B030;
 $navbar-bg: #E6EED2;
 
 $link-color: #99B030;
+$link-hover-color: #99B030;
 
 
 /*-- scss:rules --*/
 
 /* unvisited link */
-a:link {
+/*a:link {
   color: var(--avo);
   text-decoration: none;
-}
+}*/
 
 /* visited link */
-a:visited {
-  color:  var(--dark);
+/*a:visited {
+  color:  var(--avo);
   text-decoration: none;
-}
+}*/
 
 /* mouse over link */
 a:hover {
