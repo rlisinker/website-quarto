@@ -1,5 +1,5 @@
 ---
-title: "Regina Lisinker"
+title: "Regina </br> Lisinker"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
