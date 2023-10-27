@@ -1,5 +1,5 @@
 ---
-title: "Website Workshop (Main Page)"
+title: "Regina Lisinker"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
@@ -23,12 +23,12 @@ I am a graduate student in the Statistics Education program at the University of
 
 ### Education
 M.A. Statistics Education
-*September 2021 - October 2023*
+*September 2021 - October 2023*   
 Quantitative Methods in Education
 Educational Psychology Department
 University of Minnesota, Twin Cities
 
 B.S. Statistics
-*September 2016 - June 2020*
+*September 2016 - June 2020*    
 Minor in Gerontology
 California Polytechnic State University, San Luis Obispo
