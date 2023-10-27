@@ -3,6 +3,10 @@ title: "Research"
 ---
 
 ### University of Minnesota, *Minneapolis, MN*
+### Lab Member: LASER
+#### Lab Advancing Statistics Education Research 
+  - Engage in collaborative research efforts with statistics education researchers at the University of Minnesota
+
 ### Research Assistant: Evaluation Team 
 #### DSC WAV:  Code Review    
   - Create educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.)
