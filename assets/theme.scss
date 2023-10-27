@@ -18,7 +18,10 @@
     --palest: #EBF2CF;
 }
 
+/*navbar text and background*/
+
 $navbar-hl: var(--avo);
+$navbar-bg: #E6EED2;
 
 
 
@@ -51,6 +54,7 @@ a:active {
 } 
 
 /*page background and other options */
+
 body {
   /*font-family: "Roboto Mono", monospace;*/
   background-color: var(--lightestg);
