@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Regina Lisinker"
-  favicon: "img/laser_logo.png"
+  favicon: "img/laser_logo.png" 
   navbar:
     left:
       # - href: index.qmd
