@@ -9,7 +9,7 @@ website:
     left:
       # - href: index.qmd
       #   text: Home
-      - href: about.qmd
+      - href: research.qmd
         text: Research
       - href: teach.qmd
         text: Teaching
