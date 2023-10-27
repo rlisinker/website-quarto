@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "Bio\nI am a PhD student at the University of Minnesota - Twin Cities studying Psychological Foundations in Education with a research focus on Statistics and Data Science Education through the Educational Psychology department. I earned my Master of Arts degree in Educational Psychology (Quantitative Methods in Education with an emphasis on Statistics Education) also from the University of Minnesota - Twin Cities. I earned my Bachelor of Science degree in Statistics with a Gerontology minor at California Polytechnic State University San Luis Obispo.\nI am a passionate statistics educator and have experience teaching introductory courses and workshops in regression, simulation, hypothesis and significance testing, and data visualization. I have taught students to use a number of softwares, such as R, JMP, and TinkerPlots.\n\n\nEducation\nPh.D. Educational Psychology with a focus on Statistics Education\nSeptember 2023 - present\nPsychological Foundations in Education University of Minnesota, Twin Cities\nM.A. Educational Psychology with a focus on Statistics Education\nSeptember 2021 - October 2023\nQuantitative Methods in Education University of Minnesota, Twin Cities\nB.S. Statistics\nSeptember 2016 - June 2020\nMinor in Gerontology California Polytechnic State University, San Luis Obispo"
+    "text": "University of Minnesota, Minneapolis, MN\n\n\nResearch Assistant: Evaluation Team\n\nDSC WAV: Code Review\n\nCreate educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.)\nImplement survey to assess usability and helpfulness of created resources\nAnalyze and report findings from retrospective survey\n\n\n\n\nGraduate Assistant: Faculty Coordinator\n\nCollege in the Schools: Statistics Cohort\n\nHelp plan and implement day-long professional development training sessions three times each year\nProfessional development topics include: data wrangling pseudo code, item writing, inter-rater reliability, and item analysis\nObserve instructors to provide feedback on classroom engagement strategies two to three times each semester"
   },
   {
     "objectID": "about.html#education",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "References",
     "text": "References\nHank | Chief Barking Scientist | Three Bark Manor\nSadie | Naptime Engineer | Three Bark Manor"
+  },
+  {
+    "objectID": "about.html#university-of-minnesota-minneapolis-mn",
+    "href": "about.html#university-of-minnesota-minneapolis-mn",
+    "title": "Research",
+    "section": "",
+    "text": "Create educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.)\nImplement survey to assess usability and helpfulness of created resources\nAnalyze and report findings from retrospective survey\n\n\n\n\n\n\n\n\nHelp plan and implement day-long professional development training sessions three times each year\nProfessional development topics include: data wrangling pseudo code, item writing, inter-rater reliability, and item analysis\nObserve instructors to provide feedback on classroom engagement strategies two to three times each semester"
   }
 ]

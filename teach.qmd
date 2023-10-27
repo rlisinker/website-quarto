@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+### University of Minnesota, *Minneapolis, MN*
+#### Instructor    
+  - EPSY 3264: Basic and Applied Statistics
+      - Spring 2022
+      - Fall 2022
+  - EPSY 1261: Understanding Data Stories through Visualization & Computing
+      - Fall 2023
+
+#### Teaching Assistant 
+  - EPSY 3264: Basic and Applied Statistics
+      - Fall 2021 (2 sections)
+      - Summer 2023
+  - EPSY 5261: Introductory Statistical Methods
+      - Spring 2022
+      - Summer 2022
+      - Spring 2023
+      
+### Cal Poly Academic Skills Center, *San Luis Obispo, CA*
+#### Senior Leader
+  - Supplementary Workshops in Science (Statistics, Chemistry, Physics, Biology)
+  
+#### Workshop Facilitator
+  - STAT 251: Statistical Inference for Management I
+      - Spring 2018
+      - Fall 2018
+  - STAT 252: Statistical Inference for Management II
+      - Winter 2019
+      - Spring 2019
+---
