@@ -16,6 +16,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/regina-lisinker
+    - icon: envelope-plus-fill
+      text: Email
+      href: mailto:lisin003@umn.edu
+    - icon: file-earmark-text-fill
+      text: CV
 ---
 
 ### Bio
