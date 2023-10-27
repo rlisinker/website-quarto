@@ -1,3 +1,65 @@
 /* css styles */
 
  /* unvisited link */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+:root {
+    --pink: #f5e9dd;
+    --dark: #343a40;
+    --purple: #7A82AB;
+    --pale_green: #D3E2B1;
+    --lightestg: #E6EED2;
+    --avo: #99B030;
+    --lavo: #CBDC7F;
+    --pavo: #DEE9AF;
+    --palest: #EBF2CF;
+}
+
+/*navbar text and background*/
+
+
+
+
+
+/*-- scss:rules --*/
+
+/* unvisited link */
+a:link {
+  color: var(--avo);
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color:  var(--avo);
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color:  var(--dark);
+  text-decoration: underline;
+  
+}
+
+/* selected link */
+a:active {
+  color:  var(--purple);
+  text-decoration: none;
+} 
+
+/*page background and other options */
+
+body {
+  font-family: "Roboto Mono", monospace;
+  background-color: var(--lightestg);
+  color: var(--dark);
+  max-width: 90%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+section {
+  width: 90%;
+  margin: 0 auto;
+}
