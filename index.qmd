@@ -24,13 +24,19 @@ about:
 ---
 
 ### Bio
-I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).
+I am a graduate student and passionate statistics educator. I have experience teaching introductory courses and workshops in regression, simulation, hypothesis and significance testing, and data visualization. I have taught students to use a number of softwares, such as R, JMP, and TinkerPlots. My research interests revolve around how students learn statistics and data science, with particular focus on communication within classrooms and communication with data (e.g. code review, pair programming, data visualization).
+
+I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).
 
 ### Education
-M.A. Statistics Education
+Ph.D. Educational Psychology with a focus on Statistics Education
+*September 2023 - present*   
+Psychological Foundations in Education
+University of Minnesota, Twin Cities
+
+M.A. Educational Psychology with a focus on Statistics Education
 *September 2021 - October 2023*   
 Quantitative Methods in Education
-Educational Psychology Department
 University of Minnesota, Twin Cities
 
 B.S. Statistics

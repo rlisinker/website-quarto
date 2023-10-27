@@ -3,13 +3,19 @@ title: "About"
 ---
 
 ### Bio
-I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).
+I am a PhD student at the University of Minnesota - Twin Cities studying Psychological Foundations in Education with a research focus on Statistics and Data Science Education through the Educational Psychology department. I earned my Master of Arts degree in Educational Psychology (Quantitative Methods in Education with an emphasis on Statistics Education) also from the University of Minnesota - Twin Cities. I earned my Bachelor of Science degree in Statistics with a Gerontology minor at California Polytechnic State University San Luis Obispo.
+
+I am a passionate statistics educator and have experience teaching introductory courses and workshops in regression, simulation, hypothesis and significance testing, and data visualization. I have taught students to use a number of softwares, such as R, JMP, and TinkerPlots. 
 
 ### Education
-M.A. Statistics Education
+Ph.D. Educational Psychology with a focus on Statistics Education
+*September 2023 - present*   
+Psychological Foundations in Education
+University of Minnesota, Twin Cities
+
+M.A. Educational Psychology with a focus on Statistics Education
 *September 2021 - October 2023*   
 Quantitative Methods in Education
-Educational Psychology Department
 University of Minnesota, Twin Cities
 
 B.S. Statistics
