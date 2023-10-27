@@ -21,29 +21,29 @@
 
 /*navbar text and background*/
 
-$navbar-hl: var(--avo);
+$navbar-hl: #99B030;
 $navbar-bg: #E6EED2;
 
-$linkcolor: var(--avo);
+$link-color: #343a40;
 
 
 /*-- scss:rules --*/
 
 /* unvisited link */
 a:link {
-  color: var(--avo);
+  color: var(--dark);
   text-decoration: none;
 }
 
 /* visited link */
-/*a:visited {
-  color:  var(--avo);
+a:visited {
+  color:  var(--dark);
   text-decoration: none;
-}*/
+}
 
 /* mouse over link */
 a:hover {
-  color:  var(--dark);
+  color:  var(--avo);
   text-decoration: underline;
   
 }
