@@ -31,7 +31,7 @@ $link-color: #99B030;
 
 /* unvisited link */
 a:link {
-  color: var(--dark);
+  color: var(--avo);
   text-decoration: none;
 }
 
@@ -45,7 +45,6 @@ a:visited {
 a:hover {
   color:  var(--avo);
   text-decoration: underline;
-  
 }
 
 /* selected link */
