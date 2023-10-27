@@ -6,7 +6,19 @@
 
 /*-- scss:defaults --*/
 
-$navbar-hl: #99B030;
+:root {
+    --pink: #f5e9dd;
+    --dark: #343a40;
+    --purple: #7A82AB;
+    --pale_green: #D3E2B1;
+    --lightestg: #E6EED2;
+    --avo: #99B030;
+    --lavo: #CBDC7F;
+    --pavo: #DEE9AF;
+    --palest: #EBF2CF;
+}
+
+$navbar-hl: var(--avo);
 
 
 
@@ -15,27 +27,36 @@ $navbar-hl: #99B030;
 
 /* unvisited link */
 a:link {
-  color:  #99B030;
+  color: var(--avo);
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color:  #99B030;
+  color:  var(--avo);
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color:  #343a40;
+  color:  var(--dark);
   text-decoration: underline;
   
 }
 
 /* selected link */
 a:active {
-  color:  #7A82AB;
+  color:  var(--purple);
   text-decoration: none;
 } 
 
+/*page background and other options */
+body {
+  /*font-family: "Roboto Mono", monospace;*/
+  background-color: var(--lightestg);
+  color: var(--dark);
+ /* max-width: 90%;*/
+ /* margin: 0 auto;*/
+ /* font-size: 18px;*/
+}
 
