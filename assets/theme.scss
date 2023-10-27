@@ -5,6 +5,7 @@
 
 
 /*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 :root {
     --pink: #f5e9dd;
@@ -56,12 +57,12 @@ a:active {
 /*page background and other options */
 
 body {
-  /*font-family: "Roboto Mono", monospace;*/
+  font-family: "Roboto Mono", monospace;
   background-color: var(--lightestg);
   color: var(--dark);
   max-width: 90%;
   margin: 0 auto;
- /* font-size: 18px;*/
+  font-size: 18px;
 }
 
 section {
