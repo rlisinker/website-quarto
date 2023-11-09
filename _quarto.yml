@@ -29,5 +29,8 @@ format:
     toc: false
     mainfont: "Roboto"
 
-
+# quarto theme info: https://quarto.org/docs/output-formats/html-themes.html
+# academic icons: https://jpswalsh.github.io/academicons/
+# more icons: https://thenounproject.com/ 
+# even more: https://icons.getbootstrap.com/
 
