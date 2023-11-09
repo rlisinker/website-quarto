@@ -1,5 +1,8 @@
 ---
 title: "Teaching"
+format:
+  html:
+    anchor-sections: false
 ---
 
 [Rate My Professor](https://www.ratemyprofessors.com/professor/2742423)
