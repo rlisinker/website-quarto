@@ -21,6 +21,7 @@ about:
       href: mailto:lisin003@umn.edu
     - icon: file-earmark-text-fill
       text: CV
+      href: files/RLisinker-CV.pdf
 ---
 
 I am a PhD student and passionate statistics educator. I have experience teaching introductory courses and workshops in regression, simulation, hypothesis and significance testing, and data visualization. I have taught students to use a number of softwares, such as R, JMP, and TinkerPlots. My research interests revolve around how students learn statistics and data science, with particular focus on communication within classrooms and communication with data (e.g. code review, pair programming, data visualization).
