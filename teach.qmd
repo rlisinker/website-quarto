@@ -5,10 +5,11 @@ format:
     anchor-sections: false
 ---
 
-## [Rate My Professor](https://www.ratemyprofessors.com/professor/2742423)
+### [Rate My Professor](https://www.ratemyprofessors.com/professor/2742423)
 
-### University of Minnesota, *Minneapolis, MN* 
-#### Instructor
+### **University of Minnesota, *Minneapolis, MN* **
+
+##### Instructor
 
 -   EPSY 3264: Basic and Applied Statistics
     -   Spring 2022
@@ -16,7 +17,7 @@ format:
 -   EPSY 1261: Understanding Data Stories through Visualization & Computing
     -   Fall 2023
 
-#### Teaching Assistant
+##### Teaching Assistant
 
 -   EPSY 3264: Basic and Applied Statistics
     -   Fall 2021 (2 sections)
@@ -27,12 +28,12 @@ format:
     -   Spring 2023
          
            
-### Cal Poly Academic Skills Center, *San Luis Obispo, CA* 
-#### Senior Leader
+### **Cal Poly Academic Skills Center, *San Luis Obispo, CA* **
+##### Senior Leader
 
 -   Supplementary Workshops in Science (Statistics, Chemistry, Physics, Biology)
 
-#### Workshop Facilitator
+##### Workshop Facilitator
 
 -   STAT 251: Statistical Inference for Management I
     -   Spring 2018
