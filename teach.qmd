@@ -5,7 +5,7 @@ format:
     anchor-sections: false
 ---
 
-[Rate My Professor](https://www.ratemyprofessors.com/professor/2742423)
+## [Rate My Professor](https://www.ratemyprofessors.com/professor/2742423)
 
 ### University of Minnesota, *Minneapolis, MN*
 
