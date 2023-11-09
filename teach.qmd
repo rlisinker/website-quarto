@@ -40,7 +40,4 @@ format:
     -   Fall 2018
 -   STAT 252: Statistical Inference for Management II
     -   Winter 2019
-
-    -   
-
-        ## Spring 2019
+    -   Spring 2019
