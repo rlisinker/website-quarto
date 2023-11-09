@@ -7,7 +7,7 @@ format:
 
 ## [Rate My Professor](https://www.ratemyprofessors.com/professor/2742423)
 
-### **University of Minnesota, *Minneapolis, MN* **
+### University of Minnesota, *Minneapolis, MN* 
 #### Instructor
 
 -   EPSY 3264: Basic and Applied Statistics
@@ -26,7 +26,7 @@ format:
     -   Summer 2022
     -   Spring 2023
          
-### **Cal Poly Academic Skills Center, *San Luis Obispo, CA* **
+### Cal Poly Academic Skills Center, *San Luis Obispo, CA* 
 #### Senior Leader
 
 -   Supplementary Workshops in Science (Statistics, Chemistry, Physics, Biology)
