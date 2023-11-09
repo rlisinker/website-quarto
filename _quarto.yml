@@ -13,6 +13,8 @@ website:
         text: Research
       - href: teach.qmd
         text: Teaching
+      - href: "/files/RLisinker-CV.pdf"
+        text: CV
 
 format:
   html:
