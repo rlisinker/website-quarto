@@ -24,8 +24,8 @@
 $navbar-hl: #99B030;
 $navbar-bg: #E6EED2;
 
-$link-color: #99B030;
-$link-hover-color: #99B030;
+$link-color: #7a8c27;
+$link-hover-color: #7a8c27;
 
 
 /*-- scss:rules --*/
@@ -44,7 +44,7 @@ a:link {
 
 /* mouse over link */
 a:hover {
-  color:  var(--avo);
+  color:  #7a8c27;
   text-decoration: underline;
 }
 
