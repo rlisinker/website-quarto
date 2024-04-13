@@ -18,7 +18,7 @@ about:
       href: https://www.linkedin.com/in/regina-lisinker
     - icon: file-earmark-text-fill
       text: CV
-      href: "/files/RLisinker-CV.pdf"
+      href: "/files/RLisinker-CV-s2024.pdf"
     - icon: envelope-plus-fill
       text: Email
       href: mailto:lisin003@umn.edu
