@@ -10,8 +10,9 @@ format:
 ##### Lab Advancing Statistics Education Research 
 ##### September 2021 - present
   - Engage in collaborative research efforts with statistics education researchers at the University of Minnesota
-  - Curriculum development: algorithmic modeling
+  - Curriculum development: [algorithmic modeling](https://laser-umn.github.io/posts/alg-mod.html)
       - Building on past research teaching CART algorithms, LASER is currently designing activities focusing on the kNN algorithm
+      - See our [workshop materials](https://laser-umn.github.io/sessions/knn-classification.html) from MCTM '24!
   - Curriculum development: data visualization
       - Building on existing course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing and update with new material
 
@@ -23,8 +24,9 @@ format:
   - Observe instructors to provide feedback on classroom engagement strategies two to three times each semester
 
 #### Research Assistant: Evaluation Team 
-##### DSC WAV:  Code Review 
+##### DSC WAV:  [Code Review](https://rlisinker/com/projects/code-review.html) 
 ##### January 2022 - October 2023
   - Create educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.)
   - Implement survey to assess usability and helpfulness of created resources
   - Analyze and report findings from retrospective survey
+  

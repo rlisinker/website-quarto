@@ -1,0 +1,6 @@
+---
+title: "Code Review"
+editor: visual
+---
+
+[Poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_Poster.pdf)
