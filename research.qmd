@@ -22,6 +22,7 @@ format:
   - Help plan and implement day-long professional development training sessions three times each year
   - Professional development topics include: data wrangling pseudo code, item writing, inter-rater reliability, and item analysis
   - Observe instructors to provide feedback on classroom engagement strategies two to three times each semester
+  - See our [workshop materials](https://laser-umn.github.io/sessions/be-above-average.html) from MCTM '24!
 
 #### Research Assistant: Evaluation Team 
 ##### DSC WAV:  [Code Review](https://rlisinker.com/projects/code-review.html) 
