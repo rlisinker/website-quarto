@@ -24,7 +24,7 @@ format:
   - Observe instructors to provide feedback on classroom engagement strategies two to three times each semester
 
 #### Research Assistant: Evaluation Team 
-##### DSC WAV:  [Code Review](https://rlisinker/com/projects/code-review.html) 
+##### DSC WAV:  [Code Review](https://rlisinker.com/projects/code-review.html) 
 ##### January 2022 - October 2023
   - Create educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.)
   - Implement survey to assess usability and helpfulness of created resources
