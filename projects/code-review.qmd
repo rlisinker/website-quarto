@@ -4,3 +4,5 @@ editor: visual
 ---
 
 [Poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_Poster.pdf)
+[Lightning Talk Slide](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_LightningTalk_Slide.pdf)
+[StatChat Slides](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_StatChat_Slides.pdf)
