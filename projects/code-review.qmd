@@ -3,6 +3,24 @@ title: "Code Review"
 editor: visual
 ---
 
-[Poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_Poster.pdf)
-[Lightning Talk Slide](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_LightningTalk_Slide.pdf)
-[StatChat Slides](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_StatChat_Slides.pdf)
+Code review is a common practice in industry settings that promotes shared knowledge, facilitates team communication, and improves code quality. However, the skill of code review is rarely taught in undergraduate statistics and data science courses. Given the importance of communication and reproducibility, it would be incredibly useful to teach students this skill early. As a part of my M.A. thesis, I developed a number of [code review resources](https://github.com/rlisinker/talking_in_code/tree/main/Student%20Resources) for students to develop their code review habits. Related presentation materials are linked below. 
+
+### Presentations
+
+*Lisinker, R.*, Zieffler, A., & Legacy, C. (2023, November). Lessons in Code Review.  Presentation at [StatChat](https://calegacy.github.io/stat-chat/past.html#november-29-2023-meeting): An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States. 
+
+[StatChat slides](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_StatChat_Slides.pdf)
+
+*Lisinker, R.*, Zieffler, A., & Legacy, C. (2023, June). Talking in Code: Code Review as a Form of Communication.  Lightning Talk presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA, United States.
+
+[Lightning Talk slide](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_LightningTalk_Slide.pdf)
+
+
+### Posters
+*Lisinker, R.*, Zieffler, A., & Legacy, C.  (2023, July) Talking in Code: Code Review as a Form of Communication. [Poster presentation]. 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
+
+*Lisinker, R.*, Zieffler, A., & Legacy, C. (2023, June). Talking in Code: Code Review as a Form of Communication. [Poster presentation]. Research Satellite of the United States Conference on Teaching Statistics, State College, PA, United States.
+
+*Lisinker, R.*, Zieffler, A., & Legacy, C.  (2023, June) Talking in Code: Code Review as a Form of Communication.  [Poster presentation]. United States Conference on Teaching Statistics, State College, PA, United States.
+
+[Poster linked here](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/code-review/Lisinker_CodeReview_Poster.pdf)
