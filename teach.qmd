@@ -16,6 +16,8 @@ format:
     -   Fall 2022
 -   EPSY 1261: Understanding Data Stories through Visualization & Computing
     -   Fall 2023
+-   EPSY 5261: Introductory Statistical Methods
+    -   Fall 2024
 
 ##### Teaching Assistant
 
@@ -26,6 +28,7 @@ format:
     -   Spring 2022
     -   Summer 2022
     -   Spring 2023
+    -   Summer 2024
          
            
 ### **Cal Poly Academic Skills Center, *San Luis Obispo, CA* **
