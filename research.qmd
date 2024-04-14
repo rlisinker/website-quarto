@@ -5,29 +5,34 @@ format:
     anchor-sections: false
 ---
 
-### University of Minnesota, *Minneapolis, MN* 
-#### Lab Member: [LASER](https://laser-umn.github.io/)
-##### Lab Advancing Statistics Education Research 
-##### September 2021 - present
-  - Engage in collaborative research efforts with statistics education researchers at the University of Minnesota
-  - Curriculum development: [algorithmic modeling](https://laser-umn.github.io/posts/alg-mod.html)
+Here's what I've been up to at the University of Minnesota! 
+
+#### Lab Member | Lab Advancing Statistics Education Research [(LASER)](https://laser-umn.github.io/)
+  - Collaborative research with statistics education researchers at the University of Minnesota
+  - Curriculum development: [Algorithmic Modeling](https://laser-umn.github.io/posts/alg-mod.html)
       - Building on past research teaching CART algorithms, LASER is currently designing activities focusing on the kNN algorithm
+      - I've been helping to develop educational materials to teach classification methods and introductory machine learning techniques
+      - Putting my love of powerpoint templates to good use, I was responsible for formatting and styling templates to design high-quality presentations
       - See our [workshop materials](https://laser-umn.github.io/sessions/knn-classification.html) from MCTM '24!
-  - Curriculum development: data visualization
-      - Building on existing course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing and update with new material
+  - Curriculum development: Data Visualization
+      - I'm working to help reorganize and update the course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing  
+      - This is partially in preparation for my Ph.D. milestone/dissertation work on the comprehension and creation of [data visualization](https://rlisinker.com/projects/data-viz.html) 
 
-#### Graduate Assistant: Faculty Coordinator
-##### College in the Schools: Statistics Cohort
-##### September 2022 - present
-  - Help plan and implement day-long professional development training sessions three times each year
-  - Professional development topics include: data wrangling pseudo code, item writing, inter-rater reliability, and item analysis
-  - Observe instructors to provide feedback on classroom engagement strategies two to three times each semester
-  - See our [workshop materials](https://laser-umn.github.io/sessions/be-above-average.html) from MCTM '24!
+#### Graduate Assistant | College in the Schools [(CIS)](https://ccaps.umn.edu/college-in-the-schools/basic-and-applied-statistics): Statistics Cohort
+##### Faculty Coordinator
+  - I help plan and implement day-long professional development training sessions three times each year for the statistics cohort of CIS high school teachers 
+      - Professional development topics include: data wrangling pseudo code, item writing, inter-rater reliability, and item analysis
+  - Part of this position means I get to observe instructors to provide feedback on classroom engagement strategies two to three times each semester
+  - See our [workshop materials](https://laser-umn.github.io/sessions/be-above-average.html) from MCTM '24 to learn more about the course!
 
-#### Research Assistant: Evaluation Team 
-##### DSC WAV:  [Code Review](https://rlisinker.com/projects/code-review.html) 
-##### January 2022 - October 2023
-  - Create educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.)
-  - Implement survey to assess usability and helpfulness of created resources
-  - Analyze and report findings from retrospective survey
+#### Research Assistant | [DataX](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413): Exploring Justice-Oriented Data Science
+##### Data Analysis 
+  - I've been getting to explore qualitative coding of video through this NSF-funded project 
+      - Video is obtained from a secondary school social studies class learning data science topics
+  - As part of this position, I've also been responsible for assembling a literature review of history and data science education research
+
+#### Research Assistant | Data Science-Wrangle Analyze Visualize [(DSC-WAV)](https://dsc-wav.github.io/www/index.html): Code Review 
+#####  Evaluation Team
+  - I created educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.) and surveyed students on their code review processes
+  - Learn more about my [MA Thesis work here!](https://rlisinker.com/projects/code-review.html)
   

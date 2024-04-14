@@ -1,0 +1,4 @@
+---
+title: "Attitudes Towards Statistics"
+editor: visual
+---
