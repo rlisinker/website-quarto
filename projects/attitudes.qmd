@@ -3,6 +3,6 @@ title: "Attitudes Towards Statistics"
 editor: visual
 ---
 
-~ Page Under Construction ~
+\~ Page Under Construction \~
 
 [Baby's first poster linked here](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/attitudes/Lisinker_Attitudes_LSGSC_Poster.pdf)
