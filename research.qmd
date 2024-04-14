@@ -36,3 +36,12 @@ Here's what I've been up to at the University of Minnesota!
   - I created educational resources for data science students learning how to review code (code review checklist, style guide considerations, etc.) and surveyed students on their code review processes
   - Learn more about my [MA Thesis work here!](https://rlisinker.com/projects/code-review.html)
   
+#### Other Projects
+##### Attitudes Towards Statistics
+  - My first project as an MA student was looking into student attitudes towards statistics through a qualitative lens
+  - I might return to this at a later date once I have a chance to collect fresh data and implement the lessons I've learned since my first semester of grad school 
+  - Check out [this page](https://rlisinker.com/projects/attitudes.html) to see my first research poster and my musings on attitudes towards statistics
+  
+  
+  
+  
