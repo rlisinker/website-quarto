@@ -5,6 +5,10 @@ editor: visual
 
 Code review is a common practice in industry settings that promotes shared knowledge, facilitates team communication, and improves code quality. However, the skill of code review is rarely taught in undergraduate statistics and data science courses. Given the importance of communication and reproducibility, it would be incredibly useful to teach students this skill early. As a part of my M.A. thesis, I developed a number of [code review resources](https://github.com/rlisinker/talking_in_code/tree/main/Student%20Resources) for students to develop their code review habits. Related presentation materials are linked below. 
 
+### Papers
+
+*Lisinker, R.*, Legacy, C., &  Zieffler, A. (in preparation) Talking in Code: Code Review as a Form of Communication
+
 ### Presentations
 
 *Lisinker, R.*, Zieffler, A., & Legacy, C. (2023, November). Lessons in Code Review.  Presentation at [StatChat](https://calegacy.github.io/stat-chat/past.html#november-29-2023-meeting): An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States. 

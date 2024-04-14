@@ -25,7 +25,7 @@ Here's what I've been up to at the University of Minnesota!
   - Part of this position means I get to observe instructors to provide feedback on classroom engagement strategies two to three times each semester
   - See our [workshop materials](https://laser-umn.github.io/sessions/be-above-average.html) from MCTM '24 to learn more about the course!
 
-#### Research Assistant | [DataX](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413): Exploring Justice-Oriented Data Science
+#### Research Assistant | [DataX](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413): Exploring Justice-Oriented Data Science with Secondary School Studentss
 ##### Data Analysis 
   - I've been getting to explore qualitative coding of video through this NSF-funded project 
       - Video is obtained from a secondary school social studies class learning data science topics

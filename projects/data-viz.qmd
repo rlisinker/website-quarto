@@ -2,3 +2,29 @@
 title: "Data Visualization"
 editor: visual
 ---
+
+Data visualization is a predominant way we take in information today. As such, it is seen as a form of communication in many fields. We know that poor visualizations can cause confusion, misunderstanding, and distrust; this implies that the consumer’s experience (and their takeaway) is important to consider. However, when data visualization is defined, the process rarely considers consumption or the consumer experience. My venture into the world of data visualization starts here.
+
+My current plan is to tackle the following three projects:
+
+    1. Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the consumption of data visualization.
+    2. Understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important? Will students identify with being a creator or consumer more?).
+    3. Ultimately, these projects will hopefully lead to a broader framework for the cognitive component processes of data visualization consumption and one adaptable set of recommendations for data visualization creators. 
+
+### Presentations
+
+*Lisinker, R.* (2024, April). Data Visualization: Creation and Consumption. Presentation at First Year Fest: Student progress presentations, Minneapolis, MN, United States.
+
+[First Year Fest slides](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/data-viz/Lisinker_DataViz_FirstYearFest_Slides.pdf)
+
+[First Year Fest recording](https://umn.zoom.us/rec/play/BOTWIsdA1AFIdUQltIsFrwzq0VwJ6shg8ONf14o4BfxOBxrRg387uSHuJE8-E62fQlGmL4OhH6raoiLq.baEVjzJoZE5oBn0O?canPlayFromShare=true&from=share_recording_detail&startTime=1712160224000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fumn.zoom.us%2Frec%2Fshare%2FuHBgM7WT-yCMAmGzwRp8-2E-mwzOWO9u8kH78vL6JO1UzVGA9-Iwh5BSHaSctPxO.JlXuVOX8Zi6hi3bA%3FstartTime%3D1712160224000)
+
+### Posters
+
+*Lisinker, R.* & Allen, L. (2024, August) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. [Poster presentation]. Joint Statistical Meetings, Portland, OR, United States. 
+
+*Lisinker, R.* & Allen, L. (2024, June) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. [Poster presentation]. Electronic Conference On Teaching Statistics, online.
+
+*Lisinker, R.* & Allen, L. (2024, March) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. [Poster presentation]. Graduate Student Research Day (GSRD), Minneapolis, MN, United States. 
+
+[GSRD poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/data-viz/Lisinker_GRAFIC_GSRD.pdf)
