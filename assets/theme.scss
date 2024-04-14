@@ -33,19 +33,13 @@ $link-hover-color: #7a8c27;
 
 /* unvisited link */
 a:link {
-  color: var(--dark);
+  color: var(--davo);
   text-decoration: underline;
 }
 
-/* visited link */
-/*a:visited {
-  color:  var(--avo);
-  text-decoration: none;
-}*/
-
 /* mouse over link */
 a:hover {
-  color:  #7a8c27;
+  color: var(--dark);
   text-decoration: underline;
 }
 
@@ -54,6 +48,12 @@ a:active {
   color:  var(--purple);
   text-decoration: none;
 } 
+
+/* visited link */
+a:visited {
+  color:  var(--purple);
+  text-decoration: underline;
+}
 
 /*page background and other options */
 // The main body
