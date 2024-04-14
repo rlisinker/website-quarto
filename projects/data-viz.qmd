@@ -7,9 +7,9 @@ Data visualization is a predominant way we take in information today. As such, i
 
 My current plan is to tackle the following three projects:
 
-    1. Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the consumption of data visualization.
-    2. Understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important? Will students identify with being a creator or consumer more?).
-    3. Ultimately, these projects will hopefully lead to a broader framework for the cognitive component processes of data visualization consumption and one adaptable set of recommendations for data visualization creators. 
+- Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the consumption of data visualization.
+- Understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important? Will students identify with being a creator or consumer more?).
+- Ultimately, these projects will hopefully lead to a broader framework for the cognitive component processes of data visualization consumption and one adaptable set of recommendations for data visualization creators. 
 
 ### Presentations
 
