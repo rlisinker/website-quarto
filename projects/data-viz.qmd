@@ -7,9 +7,9 @@ Data visualization is a predominant way we take in information today. As such, i
 
 My current plan is to tackle the following three projects:
 
-- Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the consumption of data visualization.
-- Understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important? Will students identify with being a creator or consumer more?).
-- Ultimately, these projects will hopefully lead to a broader framework for the cognitive component processes of data visualization consumption and one adaptable set of recommendations for data visualization creators. 
+-   Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the consumption of data visualization.
+-   Understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important? Will students identify with being a creator or consumer more?).
+-   Ultimately, these projects will hopefully lead to a broader framework for the cognitive component processes of data visualization consumption and one adaptable set of recommendations for data visualization creators.
 
 ### Presentations
 
@@ -21,10 +21,12 @@ My current plan is to tackle the following three projects:
 
 ### Posters
 
-*Lisinker, R.* & Allen, L. (2024, August) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. [Poster presentation]. Joint Statistical Meetings, Portland, OR, United States. 
+*Lisinker, R.* & Allen, L. (2024, August) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. \[Poster presentation\]. Joint Statistical Meetings, Portland, OR, United States.
 
-*Lisinker, R.* & Allen, L. (2024, June) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. [Poster presentation]. Electronic Conference On Teaching Statistics, online.
+*Lisinker, R.* & Allen, L. (2024, June) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. \[Poster presentation\]. Electronic Conference On Teaching Statistics, online.
 
-*Lisinker, R.* & Allen, L. (2024, March) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. [Poster presentation]. Graduate Student Research Day (GSRD), Minneapolis, MN, United States. 
+[ECOTS poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/data-viz/Lisinker_GRAFIC_ECOTS_Poster.pdf)
 
-[GSRD poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/data-viz/Lisinker_GRAFIC_GSRD.pdf)
+*Lisinker, R.* & Allen, L. (2024, March) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. \[Poster presentation\]. Graduate Student Research Day (GSRD), Minneapolis, MN, United States.
+
+[GSRD poster](https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/data-viz/Lisinker_GRAFIC_GSRD_Poster.pdf)
