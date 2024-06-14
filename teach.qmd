@@ -16,7 +16,6 @@ format:
     -   Fall 2022
 -   EPSY 1261: Understanding Data Stories through Visualization & Computing
     -   Fall 2023
--   EPSY 5261: Introductory Statistical Methods
     -   Fall 2024
 
 ##### Teaching Assistant
