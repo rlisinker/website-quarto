@@ -15,7 +15,7 @@ Here's what I've been up to at the University of Minnesota!
       - Putting my love of powerpoint templates to good use, I was responsible for formatting and styling templates to design high-quality presentations
       - See our [workshop materials](https://laser-umn.github.io/sessions/knn-classification.html) from MCTM '24!
   - Curriculum development: Data Visualization
-      - I'm working to help reorganize and update the course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing  
+      - I worked to help reorganize and update the course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing  
       - This is partially in preparation for my Ph.D. milestone/dissertation work on the comprehension and creation of [data visualization](https://rlisinker.com/projects/data-viz.html) 
 
 #### Graduate Assistant | College in the Schools [(CIS)](https://ccaps.umn.edu/college-in-the-schools/basic-and-applied-statistics): Statistics Cohort
