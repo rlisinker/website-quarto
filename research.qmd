@@ -17,6 +17,10 @@ Here's what I've been up to at the University of Minnesota!
   - Curriculum development: Data Visualization
       - I worked to help reorganize and update the course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing  
       - This is partially in preparation for my Ph.D. milestone/dissertation work on the comprehension and creation of [data visualization](https://rlisinker.com/projects/data-viz.html) 
+  - Service to the field
+      - We presented at MCTM '25 this year to give math instructors ways to incorporate: 
+          - statistics and [data science activities](https://laser-umn.github.io/sessions/mctm-2025-data-rich.html) in their classrooms to meet upcoming Minnesota state standards
+          - [statistics education research](https://laser-umn.github.io/sessions/mctm-2025-stat-ed-research.html) in their teaching
 
 #### Graduate Assistant | College in the Schools [(CIS)](https://ccaps.umn.edu/college-in-the-schools/basic-and-applied-statistics): Statistics Cohort
 ##### Faculty Coordinator
@@ -29,7 +33,9 @@ Here's what I've been up to at the University of Minnesota!
 ##### Data Analysis 
   - I've been getting to explore qualitative coding of video through this NSF-funded project 
       - Video is obtained from a secondary school social studies class learning data science topics
-  - As part of this position, I've also been responsible for assembling a literature review of history and data science education research
+  - As part of this position, I am responsible for preparing reports and presentations on co-designed curriculum and research findings
+      - Check out our [workshop materials](https://laser-umn.github.io/sessions/historical-literacy.html) from DSE K-12 '25 for more information on the curriculum
+      - I'll also be presenting an 8 page paper on this work at ISLS '25 in Helsinki this summer
 
 #### Research Assistant | Data Science-Wrangle Analyze Visualize [(DSC-WAV)](https://dsc-wav.github.io/www/index.html): Code Review 
 #####  Evaluation Team
