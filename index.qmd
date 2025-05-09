@@ -19,6 +19,9 @@ about:
     - icon: file-earmark-text-fill
       text: CV
       href: https://raw.githubusercontent.com/rlisinker/website-quarto/main/files/RLisinker-CV-s2024.pdf
+    - icon: file-earmark-text-fill
+      text: CV2
+      href: https://rlisinker.com/projects/cv.html
     - icon: envelope-plus-fill
       text: Email
       href: mailto:lisin003@umn.edu
