@@ -22,7 +22,7 @@ title: "CV"
 <div style="position: relative; padding-bottom: 129.41%; background-color: #E6EED2;">
   <iframe 
     src="https://docs.google.com/document/d/1MnWdrjw8EUC4G6IcJO_Rtm3Hc0NM-tygEM7NLOe2c2s/preview" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 750px; border: none; display: block; margin: 0 auto;" 
+    style="position: absolute; top: 0; left: 0; width: 620px; height: 800px; border: none; display: block; margin: 0 auto;" 
     allowfullscreen>
   </iframe>
 </div>
