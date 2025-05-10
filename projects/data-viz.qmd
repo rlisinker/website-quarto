@@ -7,14 +7,16 @@ Data visualization is a predominant way we take in information today. As such, i
 
 I am currently working on:
 
--   Creating a framework of data visualization comprehension and cognitive component processes, rooted in text and discourse comprehension models as well as research in graph comprehension. This will be the basis of my oral preliminary exam for my PhD.
--   I collected video and screen recording data from students in EPSY 1261 in Fall '24. Students' troubleshooting work on recreating challenging data visualizations, by way of productive failure, was captured. This data will be the focus of my dissertation work. I am interested to understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important?)
+  - Creating a framework of data visualization comprehension and cognitive component processes, rooted in text and discourse comprehension models as well as research in graph comprehension. This will be the basis of my oral preliminary exam for my PhD
+  - I collected video and screen recording data from students in EPSY 1261 in Fall '24. Students' troubleshooting work on recreating challenging data visualizations, by way of productive failure, was captured. This data will be the focus of my dissertation work. I am interested to understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important?)
+    - I will be presenting the productive failure activities at USCOTS '25!
+  - The work I've done with DataX revolves around data visualizations and documenting pedagogy at the intersection of data literacy, history education, and justice
 
 There is still a lot of work to do in data visualization education and literacy! Right now, my work is a bit more comprehension-based. I believe that once we have an understanding of how people make meaning from data visualizations, we can better address the ways in which we should be creating data visualizations. Ideas for future work I'd like to be a part of: 
 
--   Develop curriculum and pedagogy to teach students to be conscious creators of data visualization. This means that assessment of student creations must rely on the comprehensibility of the work, not just the technical or aesthetic features. 
--   Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the comprehension of data visualization.
--   Use what we know about data visualization comprehension to create one adaptable set of recommendations for data visualization creators.
+-   Develop curriculum and pedagogy to teach students to be conscious creators of data visualization. This means that assessment of student creations must rely on the comprehensibility of the work, not just the technical or aesthetic features 
+-   Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the comprehension of data visualization
+-   Use what we know about data visualization comprehension to create one adaptable set of recommendations for data visualization creators
 
 
 ### Presentations
