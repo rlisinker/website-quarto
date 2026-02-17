@@ -14,13 +14,16 @@ Here's what I've been up to at the University of Minnesota!
       - I've been helping to develop educational materials to teach classification methods and introductory machine learning techniques
       - Putting my love of powerpoint templates to good use, I was responsible for formatting and styling templates to design high-quality presentations
       - See our [workshop materials](https://laser-umn.github.io/sessions/knn-classification.html) from MCTM '24!
+      - We also presented this work at [USCOTS '25](https://laser-umn.github.io/sessions/2025-uscots-classify.html)
   - Curriculum development: Data Visualization
       - I worked to help reorganize and update the course activities for EPSY 1261: Understanding Data Stories through Visualization & Computing  
-      - This is partially in preparation for my Ph.D. milestone/dissertation work on the comprehension and creation of [data visualization](https://rlisinker.com/projects/data-viz.html) 
+      - Updates for Fall '24 were partially in preparation for my Ph.D. milestone/dissertation work on the comprehension and creation of [data visualization](https://rlisinker.com/projects/data-viz.html) 
+      - In Fall '25, we updated the course once more to introduce a semester-long iterative visualization portfolio for students to incorporate feedback throughout the semester
   - Service to the field
-      - We presented at MCTM '25 this year to give math instructors ways to incorporate: 
+      - We presented at MCTM '25 to give math instructors ways to incorporate: 
           - statistics and [data science activities](https://laser-umn.github.io/sessions/mctm-2025-data-rich.html) in their classrooms to meet upcoming Minnesota state standards
           - [statistics education research](https://laser-umn.github.io/sessions/mctm-2025-stat-ed-research.html) in their teaching
+      - We are currently in the process of contributing assessment items for the updated GAISE College Report, as well as evaluation of a data science After the AP challenge
 
 #### Graduate Assistant | College in the Schools [(CIS)](https://ccaps.umn.edu/college-in-the-schools/basic-and-applied-statistics): Statistics Cohort
 ##### Faculty Coordinator
@@ -35,7 +38,7 @@ Here's what I've been up to at the University of Minnesota!
       - Video is obtained from a secondary school social studies class learning data science topics
   - As part of this position, I am responsible for preparing reports and presentations on co-designed curriculum and research findings
       - Check out our [workshop materials](https://laser-umn.github.io/sessions/historical-literacy.html) from DSE K-12 '25 for more information on the curriculum
-      - I'll also be presenting an 8 page paper on this work at ISLS '25 in Helsinki this summer
+      - I also presented an 8 page [paper](https://repository.isls.org/handle/1/11831) on this work at ISLS '25 in Helsinki!
 
 #### Research Assistant | Data Science-Wrangle Analyze Visualize [(DSC-WAV)](https://dsc-wav.github.io/www/index.html): Code Review 
 #####  Evaluation Team

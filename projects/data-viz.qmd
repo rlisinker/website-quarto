@@ -7,19 +7,27 @@ Data visualization is a predominant way we take in information today. As such, i
 
 I am currently working on:
 
-  - Creating a framework of data visualization comprehension and cognitive component processes, rooted in text and discourse comprehension models as well as research in graph comprehension. This will be the basis of my oral preliminary exam for my PhD
+  - Creating a framework of data visualization literacy that integrates comprehension component processes, rooted in text and discourse comprehension models as well as research in visualization and graph comprehension. This is the basis of my oral preliminary exam (defended and unanimously passed). 
   - I collected video and screen recording data from students in EPSY 1261 in Fall '24. Students' troubleshooting work on recreating challenging data visualizations, by way of productive failure, was captured. This data will be the focus of my dissertation work. I am interested to understand how students in an introductory data visualization course consume and create data visualizations (i.e. What features do they pay attention to and deem important?)
-    - I will be presenting the productive failure activities at USCOTS '25!
+  - In Fall '25, students in EPSY 1261 were responsible for creating iterative data visualization portfolios and asked to implement the feedback they received from each round toward their next submission. I will be presenting on [LASER's](https://laser-umn.github.io/) findings at the International Conference on Teaching Statistics this summer in Brisbane, AU!
   - The work I've done with DataX revolves around data visualizations and documenting pedagogy at the intersection of data literacy, history education, and justice
 
 There is still a lot of work to do in data visualization education and literacy! Right now, my work is a bit more comprehension-based. I believe that once we have an understanding of how people make meaning from data visualizations, we can better address the ways in which we should be creating data visualizations. Ideas for future work I'd like to be a part of: 
 
--   Develop curriculum and pedagogy to teach students to be conscious creators of data visualization. This means that assessment of student creations must rely on the comprehensibility of the work, not just the technical or aesthetic features 
--   Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the comprehension of data visualization
--   Use what we know about data visualization comprehension to create one adaptable set of recommendations for data visualization creators
+-   Develop curriculum and pedagogy to teach students to be conscious creators of data visualization. This means that assessment of student creations must rely on the comprehensibility of the work, not just the technical or aesthetic features. My literacy framework aims to provide instructor-facing questions to be an actionable pedagogical tool. 
+-   Analyze the wide variety of guidelines and recommendations that are currently out there for the creators of data visualization. I'd like to map these guidelines to the cognitive processes involved in the comprehension of data visualization.
+-   Use what we know about data visualization comprehension to create one adaptable set of recommendations for data visualization creators.
 
 
 ### Presentations
+
+Chen, B.,  *Lisinker, R.*, Leung, V., DeLiema, D., Scharber, C. (2026, April). Supporting Justice‑Oriented Data Literacy in Science and History Classrooms. Structured Poster Session, How Data Science Education Can Enable Exploration of Real World Phenomena,  at the American Educational Research Association (AERA) Annual Meeting, Los Angeles, CA, United States.
+
+*Lisinker, R.*, DeLiema, D., Scharber, C., Chen, B., Voigt, M. (2025, September). “Is there anyone in this room who wouldn’t be counted?” Pedagogy at the intersection of history, data literacy, and justice. Psychological Foundations of Education Research Talk, Minneapolis, MN. 
+
+Voigt, M., *Lisinker, R.*, Scharber, C., DeLiema, D., Jeon, T., Chen, B. (2025, February). Promoting Historical Literacy through Critical Data Science. Workshop at Data Science Education K-12: Research to Practice Conference, San Antonio, TX, United States. 
+
+[DSE K-12 sides](https://laser-umn.github.io/sessions/historical-literacy.html)
 
 *Lisinker, R.* (2024, April). Data Visualization: Creation and Consumption. Presentation at First Year Fest: Student progress presentations, Minneapolis, MN, United States.
 
@@ -28,6 +36,10 @@ There is still a lot of work to do in data visualization education and literacy!
 [First Year Fest recording](https://umn.zoom.us/rec/play/BOTWIsdA1AFIdUQltIsFrwzq0VwJ6shg8ONf14o4BfxOBxrRg387uSHuJE8-E62fQlGmL4OhH6raoiLq.baEVjzJoZE5oBn0O?canPlayFromShare=true&from=share_recording_detail&startTime=1712160224000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fumn.zoom.us%2Frec%2Fshare%2FuHBgM7WT-yCMAmGzwRp8-2E-mwzOWO9u8kH78vL6JO1UzVGA9-Iwh5BSHaSctPxO.JlXuVOX8Zi6hi3bA%3FstartTime%3D1712160224000)
 
 ### Posters
+
+*Lisinker, R.*, Carpenter, Z., Legacy, C. (2025, July). Working Backwards: Data Visualization Activities Designed to Promote Struggle. \[Poster presentation\]. United States Conference on Teaching Statistics, Ames, IA, United States.
+
+[USCOTS poster](https://www.causeweb.org/cause/uscots/uscots25/program/posters/poster47)
 
 *Lisinker, R.* & Allen, L. (2024, August) The GRAFIC Framework: Graphics-Relevant Advice to Facilitate Information Communication. \[Poster presentation\]. Joint Statistical Meetings, Portland, OR, United States.
 
