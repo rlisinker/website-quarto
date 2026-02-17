@@ -4,51 +4,42 @@ format:
   html:
     anchor-sections: false
 ---
+<style>
+#overflowCards {
+  padding: 15px;
+  height: 500px;
+  width: 1100px;
+  overflow: scroll;
+  border: 1px solid #7a8c27;
+}
+</style>
+
+<style> .card-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.2em; } </style>
 
 ### Student Feedback
 
-Here are a few things students have said about my teaching (from course evaluations and [RateMyProfessors](https://www.ratemyprofessors.com/professor/2742423)):
+At the University of Minnesota, I have been instructor of record for EPSY 1261 (Understanding Data Stories through Visualization & Computing) and EPSY 3264 (Basic and Applied Statistics). Scroll to see what students have said about my teaching (from course evaluations and [RateMyProfessors](https://www.ratemyprofessors.com/professor/2742423)):
+
+<div id="overflowCards">
+<div class="card-grid">
 
 <div style="
   border: 1px solid #e0e0e0;
-  border-left: 5px solid #7a8c27;
+  border-left: 10px solid #7a8c27;
   padding: 1em;
   border-radius: 8px;
   margin-bottom: 1em;
   box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
-  max-width: 700px;
+  max-width: none;
   background-color: #fff;
 ">
-  <p style="font-size: 1.1em; font-style: italic;">"She is an amazing professor, and I would highly recommend her if you are considering. She is deeply caring, learning everyone's names in class, and determined to make a connection will all students. I have enjoyed my time learning from her!"</p>
-  <p><strong>Course:</strong> EPSY 3264 &bull; <strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
-  <p style="color: #888;">— Anonymous student on <a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2742423" target="_blank">RateMyProfessors</a></p>
-   <span style="
-  background-color: #14A172;
-  color: #fff;
-  font-size: 0.75em;
-  padding: 0.25em 0.5em;
-  border-radius: 4px;
-  margin-right: 0.3em;
-">Inspirational</span>
-   <span style="
-  background-color: #f28b30;
-  color: #fff;
-  font-size: 0.75em;
-  padding: 0.25em 0.5em;
-  border-radius: 4px;
-  margin-right: 0.3em;
-">Hilarious</span>
-  <span style="
-  background-color: #E072A4;
-  color: #fff;
-  font-size: 0.75em;
-  padding: 0.25em 0.5em;
-  border-radius: 4px;
-  margin-right: 0.3em;
-">Caring</span>
+  <p style="font-size: 1.1em; font-style: italic;">"Her expertise, excellent style of teaching, and frequent opportunities for in–class work and questions made this class one of the highlights of my semester. Every question and bit extra work I wanted to give myself was met with both enthusiasm and helpful curiosity, helping me propel my assignments into territory where I could explore and create rather than just fill out a sheet. I hope there will be more opportunities for me to takes classes taught by Regina again in the future."</p>
+  <p><strong>Course:</strong> EPSY 1261
+  <p style="color: #888;">— Anonymous course evaluation </p>
 </div>
 
 
+
 <div style="
   border: 1px solid #e0e0e0;
   border-left: 5px solid #7a8c27;
@@ -56,7 +47,7 @@ Here are a few things students have said about my teaching (from course evaluati
   border-radius: 8px;
   margin-bottom: 1em;
   box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
-  max-width: 700px;
+  max-width: none;
   background-color: #fff;
 ">
   <p style="font-size: 1.1em; font-style: italic;">"TAKE THIS CLASS! I always recommend people to take the class, especially with Regina. She made an effort to get to know each student and made office hours readily available. She always gave clear feedback and made explanations of topics comprehendible to an average student. She made statistics so fun! She's so sweet and hilarious too"</p>
@@ -96,7 +87,82 @@ Here are a few things students have said about my teaching (from course evaluati
   border-radius: 8px;
   margin-bottom: 1em;
   box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
-  max-width: 700px;
+  max-width: none;
+  background-color: #fff;
+">
+  <p style="font-size: 1.1em; font-style: italic;">"Regina from the start of the semester displays a desire for her students to not only succeed but build skills that are applicable  outside the class. Not only does Regina care about the success of the class the way she arranges and presents material is supported by good educational philosophy. Regina has high expectations for her class and supports them with resources throughout the semester."</p>
+  <p><strong>Course:</strong> EPSY 3264
+  <p style="color: #888;">— Anonymous course evaluation </p>
+</div>
+
+
+
+<div style="
+  border: 1px solid #e0e0e0;
+  border-left: 5px solid #7a8c27;
+  padding: 1em;
+  border-radius: 8px;
+  margin-bottom: 1em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
+  max-width: none;
+  background-color: #fff;
+">
+  <p style="font-size: 1.1em; font-style: italic;">"She made sure we really understood the material and wouldn't let us just skim by. She would make the class go through the correct code with her and even make some  "mistakes" for us to correct. Truly an amazing professor!! I would love to take more classes with her!"</p>
+  <p><strong>Course:</strong> EPSY 1261
+  <p style="color: #888;">— Anonymous course evaluation </p>
+</div>
+
+
+
+<div style="
+  border: 1px solid #e0e0e0;
+  border-left: 5px solid #7a8c27;
+  padding: 1em;
+  border-radius: 8px;
+  margin-bottom: 1em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
+  max-width: none;
+  background-color: #fff;
+">
+  <p style="font-size: 1.1em; font-style: italic;">"She is an amazing professor, and I would highly recommend her if you are considering. She is deeply caring, learning everyone's names in class, and determined to make a connection will all students. I have enjoyed my time learning from her!"</p>
+  <p><strong>Course:</strong> EPSY 3264 &bull; <strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
+  <p style="color: #888;">— Anonymous student on <a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2742423" target="_blank">RateMyProfessors</a></p>
+   <span style="
+  background-color: #14A172;
+  color: #fff;
+  font-size: 0.75em;
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+  margin-right: 0.3em;
+">Inspirational</span>
+   <span style="
+  background-color: #f28b30;
+  color: #fff;
+  font-size: 0.75em;
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+  margin-right: 0.3em;
+">Hilarious</span>
+  <span style="
+  background-color: #E072A4;
+  color: #fff;
+  font-size: 0.75em;
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+  margin-right: 0.3em;
+">Caring</span>
+</div>
+
+
+
+<div style="
+  border: 1px solid #e0e0e0;
+  border-left: 5px solid #7a8c27;
+  padding: 1em;
+  border-radius: 8px;
+  margin-bottom: 1em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
+  max-width: none;
   background-color: #fff;
 ">
   <p style="font-size: 1.1em; font-style: italic;">"Regina is awesome. I was dreading taking stats, but this has become my favorite class. She does a great job at creating a comfortable atmosphere for students. In class, you work through a workbook with small groups, and she reviews the questions together at the end of class. Each unit ends with a group quiz, and individual exam to do at home."</p>
@@ -136,7 +202,7 @@ Here are a few things students have said about my teaching (from course evaluati
   border-radius: 8px;
   margin-bottom: 1em;
   box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
-  max-width: 700px;
+  max-width: none;
   background-color: #fff;
 ">
   <p style="font-size: 1.1em; font-style: italic;">"Regina has been one of my favorite professors! You can tell she truly cares about students and makes sure no one is left behind. She's insanely knowledgeable, while somehow being the most caring and hilarious professor I've ever had. I had no hope for this class but she truly made the experience enjoyable. I'll miss her!!"</p>
@@ -176,7 +242,23 @@ Here are a few things students have said about my teaching (from course evaluati
   border-radius: 8px;
   margin-bottom: 1em;
   box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
-  max-width: 700px;
+  max-width: none;
+  background-color: #fff;
+">
+  <p style="font-size: 1.1em; font-style: italic;">"She translated ideas and concepts into simpler terms for better understanding and was very thorough with class materials and teaching! she also became personal and was able to connect with each student making me feel more comfortable asking for assistance or clarification."</p>
+  <p><strong>Course:</strong> EPSY 3264
+  <p style="color: #888;">— Anonymous course evaluation </p>
+</div>
+
+
+<div style="
+  border: 1px solid #e0e0e0;
+  border-left: 5px solid #7a8c27;
+  padding: 1em;
+  border-radius: 8px;
+  margin-bottom: 1em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
+  max-width: none;
   background-color: #fff;
 ">
   <p style="font-size: 1.1em; font-style: italic;">"Whenever I missed a lecture, she was always very understanding and helped me get back on track. She did a great job at making coding seem fun and easy to learn. She responded to emails quickly, and gave informative feedback whenever I did something incorrect. Genuinely enjoyed this class!"</p>
@@ -218,34 +300,38 @@ group projects  "#454ADE"
 cleargradingcriteria "#36B09E"
 givesgoodfeedback "#69306D"  
 lectures "#F2C14E" 
-
-
 ```
+
+</div>
+</div>
 
 
 ### Awards and Honors
 
 I was honored with the Excellence in Teaching graduate student award from the Psychological Foundations in Education program for the 2024-25 academic year
 
-I have received two Thank a Teacher certificates through the Center for Educational Innovation (Spring '22 and Summer '23)  
+I have received three Thank a Teacher certificates through the Center for Educational Innovation (Spring '22,  Summer '23, and Summer '25)  
 
 ### **University of Minnesota, *Minneapolis, MN* **
 
 ##### Instructor
 
--   EPSY 3264: Basic and Applied Statistics
+-   EPSY 3264: Basic and Applied Statistics (avg. rating 5.73/6)
     -   Spring 2022
     -   Fall 2022
     -   Spring 2025
--   EPSY 1261: Understanding Data Stories through Visualization & Computing
+    -   Spring 2026 (online)
+-   EPSY 1261: Understanding Data Stories through Visualization & Computing (avg. rating 5.54/6)
     -   Fall 2023
-    -   Fall 2024
+    -   Fall 2024 
+    -   Fall 2025
 
 ##### Teaching Assistant
 
 -   EPSY 3264: Basic and Applied Statistics
     -   Fall 2021 (2 sections)
     -   Summer 2023
+    -   Summer 2025
 -   EPSY 5261: Introductory Statistical Methods
     -   Spring 2022
     -   Summer 2022
