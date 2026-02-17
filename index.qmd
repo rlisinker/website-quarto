@@ -7,9 +7,9 @@ about:
   image: img/headshot.jpeg
   links:
     # Available icons: https://icons.getbootstrap.com/
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/reggiedoesstats
+    # - icon: twitter
+    #   text: twitter
+    #   href: https://twitter.com/reggiedoesstats
     - icon: github
       text: Github
       href: https://github.com/rlisinker
@@ -27,7 +27,9 @@ about:
       href: mailto:lisin003@umn.edu
 ---
 
-I am a PhD student and passionate statistics educator. I have experience teaching introductory courses and workshops in regression, simulation, hypothesis and significance testing, and data visualization. I have taught students to use a number of softwares, such as R, JMP, and TinkerPlots. My research interests revolve around how students learn statistics and data science, with particular focus on communication within classrooms and communication with data (e.g. code review, pair programming, data visualization).
+I am a PhD candidate and passionate statistics educator. I have experience teaching introductory courses and workshops in regression, simulation, hypothesis and significance testing, and data visualization. I have taught students to use a number of softwares, such as R, JMP, and TinkerPlots. My research interests revolve around how students learn statistics and data science, with particular focus on communication within classrooms and communication with data (e.g. code review, pair programming, data visualization).
+
+I plan on finishing my PhD before Fall 2026 and am on the job market! 
 
 I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).
 
