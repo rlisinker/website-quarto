@@ -25,7 +25,7 @@ At the University of Minnesota, I have been instructor of record for EPSY 1261 (
 
 <div style="
   border: 1px solid #e0e0e0;
-  border-left: 10px solid #7a8c27;
+  border-left: 5px solid #7a8c27;
   padding: 1em;
   border-radius: 8px;
   margin-bottom: 1em;
